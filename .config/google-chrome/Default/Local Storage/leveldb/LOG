@@ -1,0 +1,21 @@
+2020/02/04-18:02:51.211 3b7 Reusing MANIFEST /home/ryzerth/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/02/04-18:02:51.211 3b7 Recovering log #11
+2020/02/04-18:02:51.212 3b7 Reusing old log /home/ryzerth/.config/google-chrome/Default/Local Storage/leveldb/000011.log 
+2020/02/04-18:07:24.083 52e Level-0 table #15: started
+2020/02/04-18:07:24.091 52e Level-0 table #15: 67554 bytes OK
+2020/02/04-18:07:24.095 52e Delete type=0 #11
+2020/02/04-18:08:52.745 52e Level-0 table #17: started
+2020/02/04-18:08:52.756 52e Level-0 table #17: 80710 bytes OK
+2020/02/04-18:08:52.760 52e Delete type=0 #14
+2020/02/04-18:08:52.760 52e Compacting 4@0 + 1@1 files
+2020/02/04-18:08:52.772 52e Generated table #18@0: 86 keys, 86372 bytes
+2020/02/04-18:08:52.772 52e Compacted 4@0 + 1@1 files => 86372 bytes
+2020/02/04-18:08:52.776 52e compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/02/04-18:08:52.776 52e Delete type=2 #10
+2020/02/04-18:08:52.776 52e Delete type=2 #7
+2020/02/04-18:08:52.776 52e Delete type=2 #15
+2020/02/04-18:08:52.776 52e Delete type=2 #17
+2020/02/04-18:08:52.776 52e Delete type=2 #12
+2020/02/04-18:18:14.235 52e Level-0 table #20: started
+2020/02/04-18:18:14.251 52e Level-0 table #20: 81503 bytes OK
+2020/02/04-18:18:14.260 52e Delete type=0 #16
