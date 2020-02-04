@@ -7,5 +7,6 @@ cp -r ~/.config/betterlockscreenrc .config/
 cp -r ~/.config/i3 .config/
 
 # Upload to git
+git add .
 git commit -a -m "New edit"
 git push
