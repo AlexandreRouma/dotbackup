@@ -1,5 +1,12 @@
-#!/bin/sh
+#!/usr/bin/env bash
+
+# Terminate already running bar instances
 killall -q polybar
-while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
-polybar -r example
-echo "Polybar started!"
+# If all your bars have ipc enabled, you can also use 
+# polybar-msg cmd quit
+
+# Launch example
+echo "---" | tee -a /tmp/polybar1.log /tmp/polybar2.log
+polybar example >>/tmp/polybar1.log 2>&1 &
+
+echo "Bars launched..."
